@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://github.com/jessicaminton/jessicaminton/blob/main/header.png" alt="banner that says hi i'm jessica minton">
+
+<h1>Welcome to my Github!</h1>
+
+blah
+
 
 <!--
 **jessicaminton/jessicaminton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
